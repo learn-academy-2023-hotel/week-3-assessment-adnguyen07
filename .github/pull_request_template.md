@@ -4,10 +4,10 @@
 
 Select the following as confirmation that the files in this repository are complete.
 
-- [ ] Career Readiness
-- [ ] Coding Challenges
-- [ ] Interview Questions
-- [ ] React Debugging
+- [✅] Career Readiness
+- [✅] Coding Challenges
+- [✅] Interview Questions
+- [✅] React Debugging
 
 ### ✋ Reminder
 
